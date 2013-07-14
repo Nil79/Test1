@@ -1,0 +1,5 @@
+D:\Nicola\development\dotnet\Test1\Test1\bin\Debug\Test1.exe
+D:\Nicola\development\dotnet\Test1\Test1\bin\Debug\Test1.pdb
+D:\Nicola\development\dotnet\Test1\Test1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Nicola\development\dotnet\Test1\Test1\obj\x86\Debug\Test1.exe
+D:\Nicola\development\dotnet\Test1\Test1\obj\x86\Debug\Test1.pdb
